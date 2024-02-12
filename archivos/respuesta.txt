@@ -1,0 +1,1 @@
+Crear una carpeta vacia en el repositorio no representa ningun cambio, por eso a la hora de hacer commit, no lo permite :) 
