@@ -1,3 +1,6 @@
 Juan David Zapata Diaz
 19
 Quiero aprender tanto como pueda de POO, en general aprender nuevos conceptos, formas de utilizar la programación, metodos y asi :)
+La carpeta ya si puede ser subida, ya que al añadirle un archivo, haciendo que esta no este vacia representa un cambio para GitHub
+
+Porque como vimos en los pasos anteriores, se pueden generar conflictos 
